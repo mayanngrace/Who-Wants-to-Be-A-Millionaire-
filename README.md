@@ -1,2 +1,2 @@
 # Who-Wants-to-Be-A-Millionaire-
-An online adaptation of the trivia game entitled "Who Wants to Be A Millionaire?"  which is free and open for anyone to play igf they are willing to put their knowledge into test in a series of questions and answers. I
+A software adaptation of the trivia game entitled "Who Wants to Be A Millionaire?" programmed using Python. It is a free and open-source game for anyone to play as long as they are willing to put their knowledge into test in a series of questions and answers. 
